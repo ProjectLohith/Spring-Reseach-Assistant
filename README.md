@@ -1,7 +1,7 @@
-# ✅ SmartResearch – AI-Powered Chrome Extension for Instant Web Summarization
+# ✅ SmartResearch  (AI-Powered Chrome Extension for Instant Web Summarization)
 SmartResearch is a lightweight and accessible Chrome extension that enhances web research by allowing users to quickly summarize selected text from any webpage using Generative AI. Designed for researchers, students, and knowledge workers, the tool improves productivity by enabling seamless summarization and note-saving in real time.
 
-**🔍 Key Features:**
+### **🔍 Key Features:**
 
 📑 Text Summarization on Selection: Users can highlight any web text, click “Summarize,” and instantly receive a concise, AI-generated summary.
 
@@ -11,7 +11,7 @@ SmartResearch is a lightweight and accessible Chrome extension that enhances web
 
 🔄 Real-time interaction between the Chrome extension frontend and the Spring Boot backend API.
 
-**🧱 Tech Stack:**
+### **🧱 Tech Stack:**
 
 Frontend: Chrome Extension (HTML, JavaScript)
 
@@ -21,7 +21,7 @@ AI Integration: Google Gemini 1.5 Flash (via Generative AI API)
 
 Storage: Chrome local storage / IndexedDB
 
-**🎯 What It Demonstrates:**
+### **🎯 What It Demonstrates:**
 
 Real-world GenAI integration using Spring Boot RESTful services.
 
@@ -33,9 +33,12 @@ Enhancing user experience through seamless AI-powered tools.
 
 <br>
 
-**🖼️ Sample Screenshot**
+### **🖼️ Sample Screenshot**
 
-![image](https://github.com/user-attachments/assets/d320620a-69ed-494d-b911-8e78405c9bb3)
+✨**Summarise**
 
-![image](https://github.com/user-attachments/assets/75318bbe-9043-4ecd-be32-89fe79041ef2)
+<img src="https://github.com/user-attachments/assets/d320620a-69ed-494d-b911-8e78405c9bb3" alt="AI Response Sample 1" width="700"/> 
 
+✨**Save Notes**
+
+<img src="https://github.com/user-attachments/assets/75318bbe-9043-4ecd-be32-89fe79041ef2" alt="AI Response Sample 2" width="400"/>
